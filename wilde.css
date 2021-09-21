@@ -17,3 +17,38 @@ p.stagedirection:hover{
     background-color: darkkhaki;
     color: firebrick;
 }
+
+h6{
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    color:black;
+}
+
+h6.ALICE{
+    color: darkcyan;
+}
+
+h6.GERALD{
+    color: darkslategray;
+}
+
+h6.LADYHUNSTANTON{
+    color: darkslategray;
+}
+table,th,td {
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+}
+
+th{
+    font-size: 30px;
+    background-color: lavender;
+}
+
+tr:nth-child(even){
+    background-color: lightblue;
+}
