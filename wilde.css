@@ -52,3 +52,15 @@ th{
 tr:nth-child(even){
     background-color: lightblue;
 }
+
+h6.GERALD:hover{
+    text-shadow: lightslategray;
+    border-style: outset;
+    filter: blur(1px);
+}
+
+h6.MRS.ALLONBY:hover{
+    text-shadow: lightslategray;
+    border-style: outset;
+    filter: brightness(1px);
+}
